@@ -186,7 +186,7 @@ Feel free to fork this project and submit pull requests for improvements!
 
 **Sameer Ahmed Qureshi**
 
-`Portfolio`: https://sameer-personall-portfolio.vercel.app
+`Portfolio`: https://sameer-personall-portfolio.vercel.app <br>
 `LinkedIn`: https://www.linkedin.com/in/sameer-ahmed-qureshi56
 
 <hr>
